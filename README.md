@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/hunterraustin/osTicket-PreReq)
-  - [osTicket: Post-Installation Configuration](https://github.com/hunterraustin/post-install-setup)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/hunterraustin/Ticket-Lifecycle-Ex.)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/hunterraustin/Config-AD-CloudVM)
   - [Firewall Configuration (NSGs) and Inspecting Network Protocols](https://github.com/hunterraustin/Azure-NSG-Protocols)
