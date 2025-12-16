@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Hybrid Active Directory Implementation: Windows Server 2022 & RHEL 9 Integration](https://github.com/hunterraustin/Hybrid-Active-Directory-Implementation)
 
 <h2>🤳Connect with me:</h2>
