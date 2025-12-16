@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/hunterraustin/Config-AD-CloudVM)
-  - [Firewall Configuration (NSGs) and Inspecting Network Protocols](https://github.com/hunterraustin/Azure-NSG-Protocols)
+  - [Hybrid Active Directory Implementation: Windows Server 2022 & RHEL 9 Integration](https://github.com/hunterraustin/Hybrid-Active-Directory-Implementation)
 
 <h2>🤳Connect with me:</h2>
 
