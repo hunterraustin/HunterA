@@ -4,6 +4,8 @@
 
 - <b>Active Directory</b>
   - [Hybrid Active Directory Implementation: Windows Server 2022 & RHEL 9 Integration](https://github.com/hunterraustin/Hybrid-Active-Directory-Implementation)
+- <b>SQL</b>
+  - [IT Asset Management Database](https://github.com/hunterraustin/IT-asset-management-database)
 
 <h2>🤳Connect with me:</h2>
 
