@@ -3,7 +3,7 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Hybrid Active Directory Implementation: Windows Server 2022 & RHEL 9 Integration](https://github.com/hunterraustin/Hybrid-Active-Directory-Implementation)
+  - [Enterprise Identity Lab: Hybrid AD, RADIUS, & Linux](https://github.com/hunterraustin/Hybrid-Active-Directory-Implementation)
 - <b>SQL</b>
   - [IT Asset Management Database](https://github.com/hunterraustin/IT-asset-management-database)
 
