@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Technical Projects:</h2>
 
-- <b>Active Directory </b>
+- <b>Active Directory & RADIUS (802.1x)</b>
   - [Enterprise Identity Lab: Hybrid AD, RADIUS, & Linux](https://github.com/hunterraustin/hybrid-identity-radius-lab)
 - <b>SQL</b>
   - [IT Asset Management Database](https://github.com/hunterraustin/IT-asset-management-database)
