@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Technical Projects:</h2>
 
-- <b>Active Directory</b>
-  - [Enterprise Identity Lab: Hybrid AD, RADIUS, & Linux](https://github.com/hunterraustin/Hybrid-Active-Directory-Implementation)
+- <b>Active Directory </b>
+  - [Enterprise Identity Lab: Hybrid AD, RADIUS, & Linux](https://github.com/hunterraustin/hybrid-identity-radius-lab)
 - <b>SQL</b>
   - [IT Asset Management Database](https://github.com/hunterraustin/IT-asset-management-database)
-- <b>Ansible</b>
+- <b>Ansible & Bash</b>
   - [Ansible Web Server Automation & Bootstrapping](https://github.com/hunterraustin/Ansible-Web-Server-Automation-and-Bootstrapping)
 
 <h2>🤳Connect with me:</h2>
