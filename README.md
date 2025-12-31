@@ -8,6 +8,8 @@
   - [IT Asset Management Database](https://github.com/hunterraustin/IT-asset-management-database)
 - <b>Ansible & Bash</b>
   - [Ansible Web Server Automation & Bootstrapping](https://github.com/hunterraustin/Ansible-Web-Server-Automation-and-Bootstrapping)
+- <b>Windows Deployment Services (WDS) and Microsoft Deployment Toolkit (MDT)</b>
+  - [Enterprise Automated Desktop Deployment](https://github.com/hunterraustin/Enterprise-Automated-Desktop-Deployment)
 
 <h2>🤳Connect with me:</h2>
 
