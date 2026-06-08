@@ -1,18 +1,20 @@
-<h1>Hi, I'm Hunter, an <a href="https://www.linkedin.com/in/hunterraustin/">IT Professional</a>☺</h1>
+# Hi, I'm Hunter
 
-<h2>👨‍💻 Technical Projects:</h2>
+An infrastructure and security engineer moving into vulnerability research and
+exploit development. I build and harden enterprise systems professionally, and I
+am building offensive-security skills (reverse engineering, binary exploitation,
+CTF) on my own time.
 
-- <b>Active Directory & RADIUS (802.1x)</b>
-  - [Enterprise Identity Lab: Hybrid AD, RADIUS, & Linux](https://github.com/hunterraustin/hybrid-identity-radius-lab)
-- <b>SQL</b>
-  - [IT Asset Management Database](https://github.com/hunterraustin/IT-asset-management-database)
-- <b>Ansible & Bash</b>
-  - [Ansible Web Server Automation & Bootstrapping](https://github.com/hunterraustin/Ansible-Web-Server-Automation-and-Bootstrapping)
-- <b>Windows Deployment Services (WDS) and Microsoft Deployment Toolkit (MDT)</b>
-  - [Enterprise Automated Desktop Deployment](https://github.com/hunterraustin/Enterprise-Automated-Desktop-Deployment)
+Two tracks live here:
 
-<h2>🤳Connect with me:</h2>
+- [Homelab and Infrastructure Projects](https://github.com/hunterraustin/homelab)
+  Networking, systems, and security builds on gear I own.
+- [Vulnerability Research Writeups](https://github.com/hunterraustin/writeups)
+  CTF, reverse engineering, and exploitation, added as I work through the foundation.
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/hunterraustin/
+Details:
+- Current focus: [binary exploitation via pwn.college, CTF pwn and rev]
+- Background: hybrid Active Directory, virtualization, networking, automation,
+  HIPAA-aligned security
+- Long-term target: vulnerability research / exploit development
+- Connect: [LinkedIn](https://www.linkedin.com/in/hunterraustin/)
